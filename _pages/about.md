@@ -30,10 +30,8 @@ latest_posts:
 With experience in clinical, epidemiological, and simulation-based studies, I apply statistical modeling and machine learning to biomedical and public health problems.
 
 I am particularly interested in reproducible research, causal inference, and the interface between statistics and real-world medical decision-making.
- 
-I am seeking opportunities in academia (PhD) as well as industry settings including CROs, pharma, hospitals, and startups.
-  
 
+I am seeking opportunities in academia (PhD) as well as industry settings including CROs, pharma, hospitals, and startups.
 
 <!-- Write your biography here.   Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
