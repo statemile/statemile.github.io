@@ -4,7 +4,7 @@ cv:
   email: abemilio22@gmail.com
   location: Neuilly-Plaisance, France
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  # summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
 
   social_networks:
     - network: X
@@ -15,11 +15,11 @@ cv:
       username: example
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: 1 Rue du Bel Air
+    city: Neuilly-Plaisance
+    region: Ile-de-france
+    postalCode: 93360
+    countryCode: FR
 
   sections:
     Education:

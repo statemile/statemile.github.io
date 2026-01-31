@@ -19,7 +19,7 @@ I maintain two versions of my CV, tailored to different audiences.
 
 - for CROs / Pharmaceutical companies / Hospitals / Health-focused startups : this version emphasizes applied projects, clinical data analysis,and reproducible statistical workflows.
   [Download industry CV (PDF)](/assets/pdf/cv_industry_en.pdf)
-  <a href="/assets/pdf/cv_industry_en.pdf" target="_blank"> Download industry CV (PDF) </a>
+  <!-- <a href="/assets/pdf/cv_industry_en.pdf" target="_blank"> Download industry CV (PDF) </a> -->
 - for Academic / Research : this version emphasizes research interests, academic training,
-  and methodological work.
-  <a href="/assets/pdf/cv_academic_en.pdf" target="_blank"> Download academic CV (PDF) </a>
+and methodological work. [Download academic CV (PDF)](/assets/pdf/cv_academic_en.pdf)
+<!-- <a href="/assets/pdf/cv_academic_en.pdf" target="_blank"> Download academic CV (PDF) </a> -->
